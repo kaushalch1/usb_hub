@@ -14,3 +14,19 @@ I learned about the power surges with the before schematics I learned that it is
 
 
 -------
+# date:22/9
+# time spent:0.75hr
+## description:
+I started the pcb building and completed the part there were many errors while drawing errors in it because like the all ways were closing for some wires so first I connected the near ones then I connected the far ones,also there were many wires in this usb hub then compare to the macropad project .Now I am going to addd more ports in the schematic so that it will be useful in the travelling
+## images:
+
+
+-------
+# date:22/9
+# time spent:0.5hr
+## description:
+I have added a usb c female port that will be useful for travelling also and the honestly the usb-c port has many pins than all the usb a female ports  and I connected all of the usb c ports to the sla2.0 and then I was casually seeing the capacitors of the usb a and I notice that the capacitors don’t have any value, so I manually assign the value 10uf for ll of them and I completed the schematic part of these ya!!
+## images:
+
+
+-------
