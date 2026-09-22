@@ -30,3 +30,27 @@ I have added a usb c female port that will be useful for travelling also and the
 
 
 -------
+# date:22/9
+# time spent:0.75hr
+## description:
+I have completed the footprints assigning I assigned the footprints for the resistor,capacitor,and the usb c and then I started the pcb editor it was so many wires ,first I completed the wires connecting the sla to the usb female and now I stuck with the usb c female all ways are stuck I think I should reroute them again at afte sometime I am really confused now where should I start
+## images:
+
+
+-------
+# date:22/9
+# time spent:0.5hr
+## description:
+I have just completed all the errors in the rule checker and also in the previous journal I have left some part of the wiring in the before journal now I have done the rerouting of the wire and also I completed the edge cuts of the usb hub,now I should ship :) 
+## images:
+
+
+-------
+# date:22/9
+# time spent:0.5hr
+## description:
+I customized the pcb by adding some cool designs in it and also added my favorite pokemons on to the board which were pikachu and zerora and they were to nice in their colors and I figured out that wee can add images to pcb from the image converter
+## images:
+
+
+-------
