@@ -54,3 +54,27 @@ I customized the pcb by adding some cool designs in it and also added my favorit
 
 
 -------
+# date:23/9
+# time spent:0.75hr
+## description:
+First I completed the edge cuts in pcb editor and then I also completed the footprints part and tehn noted the dimensions between ports in notepad and then started the cad modelling part I have just completed the base and also the extruding part and now I should make the top panel and also I should extrude the body inside for the usb ports part
+## images:
+
+
+-------
+# date:23/9
+# time spent:1hr
+## description:
+I have completed the holes part of the bottom panel fist so that screws can fit inside it and then I completed the top layer by drawing it and then curving the corners and then punching holes for the screws
+## images:
+
+
+-------
+# date:23/9
+# time spent:0.5hr
+## description:
+Now I started drawing the earth in paint and also the countries were from the internet edited the world map and pasted in my drawing and then completed the extruding the blocks and adding the text and then finally appending it into the design and then completed the project by pushing it to the github
+## images:
+
+
+-------
