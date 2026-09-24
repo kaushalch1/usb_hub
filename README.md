@@ -55,13 +55,17 @@ Its compact PCB design allows it to fit easily inside a backpack, laptop sleeve,
 - Design a custom 3D-printed enclosure
 - Support additional ports
 pcb
-<img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/b2a0f518-2d90-45a6-a085-c83de09ee3a3" />
+<img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/e31b269a-2325-4c1c-8c7a-774bba49c8bd" />
+
 schematics
-<img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/41fb2804-15ba-43cb-911d-32ce4567a306" />
+<img width="1090" height="573" alt="image" src="https://github.com/user-attachments/assets/c8bd9240-cb3d-49d3-89df-61e0cdf8069f" />
+
 3d model
-<img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/644e2033-c17a-4a82-b81e-68f015e1b6c7" />
+<img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/07cf05e6-3751-4c61-b84a-6863aab64631" />
+
 
 3d model top panel
-<img width="1090" height="573" alt="image" src="https://github.com/user-attachments/assets/571e03c7-337d-45dd-b4cb-61292e3ce4d3" />
+<img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/09698d53-6a6f-4549-8a57-3f9d87125177" />
+
 
 
