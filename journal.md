@@ -1,4 +1,4 @@
-<img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/13c9cc07-b239-4416-8383-590313ac095b" /># date:22/9
+# date:22/9
 # time spent:0.75hr
 ## description:
 I have got all the parts which were4 but I  was confused what to connect then I remembered the cconnections of macropad from there I added them in the schematic editor and then connected the  sl2 to usb a male and then from sl2 to usba female and then I checked the rule checker and got few errors and then fixed them all!! 
