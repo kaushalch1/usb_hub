@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2,C3","3","10uF","","","","Capacitor_SMD:CP_Elec_4x5.4",""
+"D1","1","D_Schottky","","","","Diode_SMD:D_2114_3652Metric",""
+"J1","1","USB_C_Receptacle_USB2.0_16P","","","","Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+"R1,R2","2","5.1k","","","","Resistor_SMD:R_0805_2012Metric",""
+"U1","1","SL2.1A","","","","EasyEDA:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL","https://lcsc.com/product-detail/Others_CoreChips-SL2-1A_C192893.html"
+"USB1","1","U-G-04DD-W-01","","","","EasyEDA:USB-A-TH_U-G-04WD-W-01","https://lcsc.com/product-detail/USB-Connectors_USBConnector-900-Board-Iron-feet-tray_C98125.html"
+"USB2,USB3","2","USB-AF-90-14.4X13.6-H7.0-DIP","","","","EasyEDA:USB-A-TH_C46407","https://lcsc.com/product-detail/USB-Connectors_A-F90-White-plastic-Not-high-temperature_C46407.html"
