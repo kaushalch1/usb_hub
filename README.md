@@ -3,7 +3,7 @@
 A compact USB 2.0 hub designed for portability and everyday use. This project expands a single USB connection into multiple ports by providing **two USB-A ports and one USB-C port**, making it a convenient accessory for students, developers, and travelers.
 
 
-## Overview
+## Why did i build it?
 
 Modern laptops and tablets often have a limited number of USB ports, requiring users to carry multiple adapters or repeatedly plug and unplug devices. The Travel USB Hub solves this problem by combining multiple USB interfaces into a single compact PCB.
 
@@ -48,12 +48,8 @@ Its compact PCB design allows it to fit easily inside a backpack, laptop sleeve,
 
 - KiCad
 - EasyEDA/LCSC component libraries
+-fusion 360
 
-## Future Improvements
-
-- Add an LED power indicator
-- Design a custom 3D-printed enclosure
-- Support additional ports
 pcb
 <img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/e31b269a-2325-4c1c-8c7a-774bba49c8bd" />
 
