@@ -1,8 +1,29 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"C1,C2,C3","3","10uF","","","","Capacitor_SMD:CP_Elec_4x5.4",""
-"D1","1","D_Schottky","","","","Diode_SMD:D_2114_3652Metric",""
-"J1","1","USB_C_Receptacle_USB2.0_16P","","","","Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-"R1,R2","2","5.1k","","","","Resistor_SMD:R_0805_2012Metric",""
-"U1","1","SL2.1A","","","","EasyEDA:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL","https://lcsc.com/product-detail/Others_CoreChips-SL2-1A_C192893.html"
-"USB1","1","U-G-04DD-W-01","","","","EasyEDA:USB-A-TH_U-G-04WD-W-01","https://lcsc.com/product-detail/USB-Connectors_USBConnector-900-Board-Iron-feet-tray_C98125.html"
-"USB2,USB3","2","USB-AF-90-14.4X13.6-H7.0-DIP","","","","EasyEDA:USB-A-TH_C46407","https://lcsc.com/product-detail/USB-Connectors_A-F90-White-plastic-Not-high-temperature_C46407.html"
+PCB + PCBA costing (JLCPCB) and global inputs,,,
+,,,
+Input,Value,Note / basis,
+Boards ordered (N),5,Assumption: JLCPCB standard minimum is 5 pcs. Change to your real quantity.,
+"PCB fabrication, total ($)",$2.00,"JLCPCB 'from $2.00 / 5 pcs' (2-layer FR-4, small board). Board size/layers not in BOM, so verify with Instant Quote. Shipping & tax excluded.",
+PCBA setup fee ($),$8.18,Economic PCBA setup,
+PCBA stencil ($),$1.53,Economic PCBA stencil,
+SMT joints per board,48,ESTIMATE: C1-3 (6) + D1 (2) + J1 (~20) + R1-2 (4) + U1 SOP-16 (16),
+SMT fee per joint ($),$0.0016,JLCPCB Economic PCBA rate,
+THT joints per board,18,"ESTIMATE: USB1, USB2, USB3 x ~6 pins (4 signal + 2 shell)",
+"Hand-soldering labor fee, once ($)",$3.50,JLCPCB through-hole / wave-soldering labor fee,
+Manual assembly fee per THT joint ($),$0.0173,JLCPCB FAQ,
+Extended part types (count),4,"ESTIMATE: SL2.1A, USB-C, USB-A TH x2 types. Check each part's Basic/Extended/Preferred label in the JLCPCB BOM tool.",
+Extended part fee per type ($),$3.00,Economic PCBA feeder-loading fee per unique extended type,
+,,,
+,,,
+PCBA cost breakdown (all N boards),,,
+Setup fee,$8.18,,
+Stencil,$1.53,,
+SMT assembly,$0.38,,
+Hand-soldering labor,$3.50,,
+Manual THT assembly,$1.56,,
+Extended part fees,$12.00,,
+PCBA assembly labor/fees total,$27.15,,
+,,,
+Notes,,,
+,,,
+,,,
+,,,
