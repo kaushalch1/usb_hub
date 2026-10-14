@@ -97,7 +97,7 @@ Now I started drawing the earth in paint and also the countries were from the in
 
 -------
 # date:13/10
-# time spent:0.5hr
+# time spent:0.75hr
 ## description:
 First i had added the cad files by adding the step files to the repo,and then i had searched the lscs website for all the parts and then created a bom sheet from taking the parts and estimated their prices accordingly
 ## images:
