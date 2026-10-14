@@ -96,3 +96,21 @@ Now I started drawing the earth in paint and also the countries were from the in
 
 
 -------
+# date:13/10
+# time spent:0.5hr
+## description:
+First i had added the cad files by adding the step files to the repo,and then i had searched the lscs website for all the parts and then created a bom sheet from taking the parts and estimated their prices accordingly
+## images:
+<img width="1836" height="522" alt="image" src="https://github.com/user-attachments/assets/cb1d89df-0981-4322-a794-298aa49e4f57" />
+
+
+-------
+# date:14/10
+# time spent:1.25hr
+## description:
+The reviewer has asked to change the cad case by removing the hollow spaces above the usb ports so i had removed the hollow spaces from the usb port,and also was asked to add the unconnected tracks in the pcb and i had updated the pcb and then re exported all of them to the repo
+## images:
+<img width="1916" height="755" alt="image" src="https://github.com/user-attachments/assets/0c137ccf-9960-4e62-9024-7344e7afebc0" />
+
+
+-------
