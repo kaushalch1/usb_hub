@@ -1,54 +1,23 @@
 # Travel USB Hub
 
-A compact USB 2.0 hub designed for portability and everyday use. This project expands a single USB connection into multiple ports by providing **two USB-A ports and one USB-C port**, making it a convenient accessory for students, developers, and travelers.
+A compact usb hub designed for portability and everyday use. This project can make a single usb connection into multiple ports by providing two usb-a ports and one usb-c port, making it a convenient accessory for students and travelers.
 
 
 ## Why did i build it?
 
-Modern laptops and tablets often have a limited number of USB ports, requiring users to carry multiple adapters or repeatedly plug and unplug devices. The Travel USB Hub solves this problem by combining multiple USB interfaces into a single compact PCB.
-
-Built around the **CoreChips SL2.1A USB 2.0 Hub Controller**, the hub supports both data transfer and power delivery for compatible USB devices.
+modern laptops and chargers often have a limited number of usb ports, requiring users to carry multiple adapters or repeatedly plug and unplug devices.this usb hubb solves this problem by combining multiple USB interfaces into a single pcb.
 
 ## Features
 
-- 1 USB-A upstream port for connecting to a host computer
-- 2 USB-A downstream ports
-- 1 USB-C downstream port
+- 1 usb-a upstream port for connecting to a host computer
+- 2 usb-a downstream ports
+- 1 usb-c downstream port
 - USB 2.0 data transfer support
-- current protection using a Schottky diode
-- 10 µF capacitor for power stabilizatio
-- Compact and travel-friendly PCB design
+- current protection using a schottky diode
 
-## Components Used
-
-| CoreChips SL2.1A 
-| USB-A Male Connector
-| USB-A Female Connectors (2x)
-| USB-C Receptacle
-| Schottky Diode
-| 10 µF Capacitor 
-| 5.1 kΩ Resistors (2x) 
-
-## Why This Project Is Useful for Travel
-
-Many modern laptops provide only one or two USB ports, making it difficult to connect multiple accessories simultaneously. This travel hub combines legacy USB-A compatibility with modern USB-C connectivity in a single compact device.
-
-It is useful for:
-
-- Connecting flash drives
-- Using keyboards and mice
-- Programming microcontroller boards
-- Connecting USB-C accessories
-- Charging compatible USB devices
-- Working while travelling without carrying multiple adapters
-
-Its compact PCB design allows it to fit easily inside a backpack, laptop sleeve, or travel pouch.
 
 ## Design Tools
-
-- KiCad
-- EasyEDA/LCSC component libraries
--fusion 360
+kicad,fusion 360
 
 pcb
 <img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/e31b269a-2325-4c1c-8c7a-774bba49c8bd" />
@@ -63,5 +32,6 @@ schematics
 3d model top panel
 <img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/09698d53-6a6f-4549-8a57-3f9d87125177" />
 
+<img width="1915" height="772" alt="image" src="https://github.com/user-attachments/assets/68f89fe8-d1f4-4cb6-9407-e1eee9cf069d" />
 
 
