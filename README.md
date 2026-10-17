@@ -30,7 +30,8 @@ schematics
 
 
 3d model top panel
-<img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/09698d53-6a6f-4549-8a57-3f9d87125177" />
+<img width="1897" height="743" alt="image" src="https://github.com/user-attachments/assets/773fe56a-e783-4885-a12c-0272c422bd47" />
+
 
 <img width="1915" height="772" alt="image" src="https://github.com/user-attachments/assets/68f89fe8-d1f4-4cb6-9407-e1eee9cf069d" />
 
